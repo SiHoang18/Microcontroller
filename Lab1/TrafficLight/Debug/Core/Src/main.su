@@ -1,0 +1,8 @@
+../Core/Inc/Exercise_4.h:12:6:display7SEG	16	static
+../Core/Inc/Exercise_4.h:109:6:display7SEG1	16	static
+../Core/Inc/Exercise_5.h:13:6:Traffic_Light1	16	static
+../Core/Inc/Exercise_5.h:60:6:Traffic_Light2	16	static
+../Core/Src/main.c:65:5:main	16	static
+../Core/Src/main.c:117:6:SystemClock_Config	72	static
+../Core/Src/main.c:154:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:208:6:Error_Handler	4	static,ignoring_inline_asm

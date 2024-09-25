@@ -1,0 +1,9 @@
+../Core/Inc/Exercise_6.h:13:6:testConnection	1
+../Core/Inc/Exercise_7.h:12:6:clearAllClock	1
+../Core/Inc/Exercise_8.h:11:6:setNumberOnClock	13
+../Core/Inc/Exercise_9.h:11:6:clearNumberOnClock	13
+../Core/Inc/Exercise_10.h:15:6:Analog_Clock	4
+../Core/Src/main.c:68:5:main	1
+../Core/Src/main.c:113:6:SystemClock_Config	3
+../Core/Src/main.c:150:13:MX_GPIO_Init	1
+../Core/Src/main.c:187:6:Error_Handler	1

@@ -1,0 +1,9 @@
+../Core/Inc/Exercise_6.h:13:6:testConnection	8	static
+../Core/Inc/Exercise_7.h:12:6:clearAllClock	8	static
+../Core/Inc/Exercise_8.h:11:6:setNumberOnClock	16	static
+../Core/Inc/Exercise_9.h:11:6:clearNumberOnClock	16	static
+../Core/Inc/Exercise_10.h:15:6:Analog_Clock	24	static
+../Core/Src/main.c:68:5:main	8	static
+../Core/Src/main.c:113:6:SystemClock_Config	72	static
+../Core/Src/main.c:150:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:187:6:Error_Handler	4	static,ignoring_inline_asm
