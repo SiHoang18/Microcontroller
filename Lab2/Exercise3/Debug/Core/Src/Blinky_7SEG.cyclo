@@ -1,0 +1,4 @@
+../Core/Inc/Control_7SEG.h:11:6:display7SEG	11
+../Core/Src/Blinky_7SEG.c:17:6:update7SEG	5
+../Core/Src/Blinky_7SEG.c:50:6:setTime	2
+../Core/Src/Blinky_7SEG.c:57:6:runTime	3

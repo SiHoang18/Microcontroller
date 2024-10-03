@@ -1,0 +1,8 @@
+../Core/Src/Blinky_7SEG.c:13:6:setTime1	1
+../Core/Src/Blinky_7SEG.c:17:6:setTime2	1
+../Core/Src/Blinky_7SEG.c:21:6:setTime3	1
+../Core/Src/Blinky_7SEG.c:25:6:setTime4	1
+../Core/Src/Blinky_7SEG.c:30:6:timeRun1	2
+../Core/Src/Blinky_7SEG.c:36:6:timeRun2	2
+../Core/Src/Blinky_7SEG.c:42:6:timeRun3	2
+../Core/Src/Blinky_7SEG.c:48:6:timeRun4	2

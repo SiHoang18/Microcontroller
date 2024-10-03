@@ -1,0 +1,4 @@
+../Core/Src/Time_Control.c:17:6:setTime1	1
+../Core/Src/Time_Control.c:22:6:timeRun1	2
+../Core/Src/Time_Control.c:29:6:setTime2	1
+../Core/Src/Time_Control.c:34:6:timeRun2	2

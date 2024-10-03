@@ -1,0 +1,9 @@
+../Core/Inc/Control_7SEG.h:14:6:display7SEG	11
+../Core/Inc/Control_7SEG.h:110:6:update7SEG	5
+../Core/Src/main.c:61:6:updateClockBuffer	1
+../Core/Src/main.c:71:5:main	7
+../Core/Src/main.c:144:6:SystemClock_Config	3
+../Core/Src/main.c:181:13:MX_TIM2_Init	4
+../Core/Src/main.c:226:13:MX_GPIO_Init	1
+../Core/Src/main.c:273:7:HAL_TIM_PeriodElapsedCallback	1
+../Core/Src/main.c:282:6:Error_Handler	1
