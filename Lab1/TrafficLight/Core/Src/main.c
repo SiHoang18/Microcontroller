@@ -97,12 +97,10 @@ int main(void)
   while (1)
   {
 	  Traffic_Light1(count1--);
-//	  HAL_Delay(10);
 	  Traffic_Light2(count2--);
 	  if(count1 == 0) count1 = 10;
 	  if(count2 == 0) count2 = 10;
 	  HAL_Delay(1000);
-//	  Traffic_Light1(count2--);
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */

@@ -101,8 +101,8 @@ int main(void)
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   int hour = 15, minute = 8, second = 50, index = 0;
-  setTime(1000,0);
-  setTime(200,1);
+//  setTime(1000,0);
+//  setTime(200,1);
   updateClockBuffer(hour, minute);
   --second;
 
