@@ -1,8 +1,0 @@
-../Core/Src/Schedule.c:13:7:newNode	24	static
-../Core/Src/Schedule.c:20:6:addNode	16	static
-../Core/Src/Schedule.c:30:6:remove	40	static
-../Core/Src/Schedule.c:55:6:SCH_Init	8	static
-../Core/Src/Schedule.c:61:6:SCH_Add_Task	56	static
-../Core/Src/Schedule.c:67:6:SCH_Delete_Task	16	static
-../Core/Src/Schedule.c:70:6:SCH_Dispatch_Tasks	16	static
-../Core/Src/Schedule.c:83:6:SCH_Update	16	static
