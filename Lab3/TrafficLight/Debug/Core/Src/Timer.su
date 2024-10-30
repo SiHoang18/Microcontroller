@@ -1,0 +1,2 @@
+../Core/Src/Timer.c:11:6:setTime	16	static
+../Core/Src/Timer.c:18:6:runTime	16	static
